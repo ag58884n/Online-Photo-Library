@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909868060824",
+    "firebase_url": "https://onlinephotolibrary-cf5b8.firebaseio.com",
+    "project_id": "onlinephotolibrary-cf5b8",
+    "storage_bucket": "onlinephotolibrary-cf5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909868060824:android:315c3d358f01dae6",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909868060824-jvljtmlb27prunp0k87f4p195r33u53r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myproject",
+            "certificate_hash": "9eceb30d5d521e40776fc5e08a45ef7ffd94e412"
+          }
+        },
+        {
+          "client_id": "909868060824-aqikp3fki8nbomv06gv5fmlqp322qput.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7GLpT1esmgRwf4St2-0Lc4Hx0WOkvvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909868060824-aqikp3fki8nbomv06gv5fmlqp322qput.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
